@@ -31,13 +31,9 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
-];
+  "Microsoft Power Platform",
+  "Microsoft Azure",
+  "AI"];
 
 /**
  * Use this to give more information about what you are passionate about,
